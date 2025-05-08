@@ -1196,10 +1196,10 @@
     "@fluentui/utilities" "^8.15.20"
     tslib "^2.1.0"
 
-"@fluentui/react-icons@^2.0.217", "@fluentui/react-icons@^2.0.237", "@fluentui/react-icons@^2.0.239", "@fluentui/react-icons@^2.0.245", "@fluentui/react-icons@^2.0.274":
-  version "2.0.297"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-icons/-/react-icons-2.0.297.tgz#c13d0ca5aac3242e6d56277283d52fd6981c2ae5"
-  integrity sha512-nMAZqWDHKzlVgs9OaeE7FNp+RHHskC3NaKftyIQmnFhPb34YEuNGABsi00dDpwxT5H4ZedmeqqCnWz+XSz0G0A==
+"@fluentui/react-icons@^2.0.217", "@fluentui/react-icons@^2.0.237", "@fluentui/react-icons@^2.0.239", "@fluentui/react-icons@^2.0.245", "@fluentui/react-icons@^2.0.298":
+  version "2.0.298"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-icons/-/react-icons-2.0.298.tgz#298e02796c460c1d3fc08c4e5fb8dafa1ed5be15"
+  integrity sha512-4bLyZsLtdpS1634ptlBQeoEDlsg//61s8Lp8RlM+TyBgXaIONS9KIlRiujlrGJyuksDujq2V+uEfpqAGrkAHtQ==
   dependencies:
     "@griffel/react" "^1.0.0"
     tslib "^2.1.0"
@@ -6434,7 +6434,7 @@ kleur@^3.0.3:
     "@fluentui/react-components" "^9.60.0"
     "@fluentui/react-datepicker-compat" "^0.5.0"
     "@fluentui/react-file-type-icons" "^8.12.8"
-    "@fluentui/react-icons" "^2.0.274"
+    "@fluentui/react-icons" "^2.0.298"
     "@fluentui/react-tags-preview" "^0.4.0"
     "@microsoft/applicationinsights-react-js" "^17.3.5"
     "@microsoft/applicationinsights-web" "^3.3.5"
@@ -6445,7 +6445,7 @@ kleur@^3.0.3:
     i18next "^24.2.2"
     i18next-browser-languagedetector "^8.0.4"
     i18next-http-backend "^3.0.2"
-    km-app "file:../../../../../Users/v-prajwaldc/AppData/Local/Yarn/Cache/v6/npm-km-app-1.0.0-d03b742a-fff5-4ebc-b889-9d7c7d05b3b0-1744654235096/node_modules/km-app"
+    km-app "file:."
     marked "^15.0.7"
     notistack "^3.0.2"
     pdfjs-dist "^4.7.76"
